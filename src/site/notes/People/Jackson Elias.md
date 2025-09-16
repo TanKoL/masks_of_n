@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/jackson-elias/"}
+{"dg-publish":true,"permalink":"/people/jackson-elias/","tags":["gardenEntry"]}
 ---
 
 Writer of the Occult, specialised in dark cults. Fought alongside us against the Kharisiri in [[Locations/PERU\|PERU]] 1920, notably the ruins close to the lake Titikaka. 
