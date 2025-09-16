@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/people/jackson-elias/","tags":["gardenEntry"]}
 ---
 
+Jackson Elias
 Writer of the Occult, specialised in dark cults. Fought alongside us against the Kharisiri in [[Locations/PERU\|PERU]] 1920, notably the ruins close to the lake Titikaka. 
 Meet him again in [[Locations/NYC\|NYC]] 1925 as he seems to be in need of our services again. Or at least his corpse as he's been murdered by cultists from [[Groups Informal/The Bloody Tongue\|The Bloody Tongue]]
 
